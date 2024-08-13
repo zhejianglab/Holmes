@@ -1,0 +1,10 @@
+torch
+numpy
+tensorstore
+zarr
+git+https://github.com/NVIDIA/TransformerEngine.git@stable
+
+
+
+sphinx_mdinclude
+sphinx-rtd-theme
